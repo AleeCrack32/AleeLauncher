@@ -1,9 +1,159 @@
 {
-  "pack_version": "1.0.5",
+  "pack_version": "1.0.6",
   "minecraft_version": "26.3",
   "loader": "fabric",
   "loader_version": "0.19.5",
   "files": [
+    {
+      "path": "config/drippyloadingscreen/options.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/drippyloadingscreen/options.txt",
+      "sha256": "f53d59ccc9f423ebf033b557f6669f87e127e5e276b7733e0a26d4679984ba99",
+      "size": 2464
+    },
+    {
+      "path": "config/fancymenu/assets/_icon_32x32.icns",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/_icon_32x32.icns",
+      "sha256": "97eb4a484ef55125ac9f051201b665d09f0c86270dc16310dea989fddb4b35d4",
+      "size": 94333
+    },
+    {
+      "path": "config/fancymenu/assets/icon_32x32.png",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/icon_32x32.png",
+      "sha256": "40809d74be1852527de4f06534e68400438009514ad0dbe20025de13662acc46",
+      "size": 2269
+    },
+    {
+      "path": "config/fancymenu/assets/icon_32x32_16x16.png",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/icon_32x32_16x16.png",
+      "sha256": "a04a8a66ec4c4dbf26e68d629a0ed0f78d00ea76ed7362f88e3682586ed5d060",
+      "size": 756
+    },
+    {
+      "path": "config/fancymenu/assets/logotipoaleestudios.png",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/logotipoaleestudios.png",
+      "sha256": "08ac34fa43b801d0da0e3a80739d71b8298d09c997ac2d3a97e852ac0cc579bd",
+      "size": 1570211
+    },
+    {
+      "path": "config/fancymenu/assets/paisajealeestudios.png",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/paisajealeestudios.png",
+      "sha256": "bf1ceaae30fdce7b8eaea34982554c588a48ef56f08aa90f2f666f37e95338f4",
+      "size": 2143251
+    },
+    {
+      "path": "config/fancymenu/assets/pngtree-game-play-button-design-png-image_2331659.jpg",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/assets/pngtree-game-play-button-design-png-image_2331659.jpg",
+      "sha256": "0a5228b1482b233147efebf7dc793ec799b60519dfdaffde104214ba9e1d97d5",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/customizablemenus.txt",
+      "sha256": "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9",
+      "size": 149
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/customization/title_screen_layout.txt",
+      "sha256": "20b942111e12a2def7287f4d9ced74bfe96b3dc08ad8bdd27f950cc01ba5775a",
+      "size": 54617
+    },
+    {
+      "path": "config/fancymenu/customization/universal_layout.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/customization/universal_layout.txt",
+      "sha256": "8dc683aed677a82c65c215546a92e48c258a408f8cc35384a210aafe31dcb2b6",
+      "size": 10520
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
+      "size": 197
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/normalized_scroll_screens.json",
+      "sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "size": 27
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/options.txt",
+      "sha256": "c7b7b8a10deea7327649a53e6a29c9871c86a8b71086c8d35bd95c331c0407e3",
+      "size": 4535
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/dark.json",
+      "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/light.json",
+      "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/purple_void.json",
+      "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/ui_themes/spooky_season.json",
+      "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/config/fancymenu/user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23
+    },
     {
       "path": "mods/AdvancedCoreInfo-fabric-26.3-1.3.0.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/AdvancedCoreInfo-fabric-26.3-1.3.0.jar",
@@ -149,16 +299,34 @@
       "size": 38725
     },
     {
+      "path": "mods/custom-glow-enchantment-outline-fabric-26.3-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/custom-glow-enchantment-outline-fabric-26.3-1.2.3.jar",
+      "sha256": "dd7d8efbf3acc829fd6471220b37de6d9819256db221c48cbf4c525b8016033e",
+      "size": 694130
+    },
+    {
       "path": "mods/dark-loading-screen-1.6.20.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/dark-loading-screen-1.6.20.jar",
       "sha256": "e36cf157318c114a88128f0eaa5c901bfc880bd440051e21a80dfd182e638748",
       "size": 47024
     },
     {
+      "path": "mods/drippyloadingscreen_fabric_3.1.6_MC_26.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/drippyloadingscreen_fabric_3.1.6_MC_26.3.jar",
+      "sha256": "cb70243b8a9bcedfe67cb40e1213e2e32893272a6adea17acc6ecf20628ac1c5",
+      "size": 745364
+    },
+    {
       "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
       "sha256": "a186d7cdfa3738935cb8425026d118013916fdcfbc060e4397d22368d0bb6594",
       "size": 189474
+    },
+    {
+      "path": "mods/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
+      "sha256": "207434bd8f62ef5761e6672496a303b4978472e8ecd9acf1d2c396a4889ba7a5",
+      "size": 2198618
     },
     {
       "path": "mods/EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar",
@@ -179,6 +347,12 @@
       "size": 2620967
     },
     {
+      "path": "mods/fancymenu_fabric_3.9.14_MC_26.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/fancymenu_fabric_3.9.14_MC_26.3.jar",
+      "sha256": "c386fb2a6e6bc315f87f1368ef9b991abccf7bf2b8269fbc7865181e4236c424",
+      "size": 26787759
+    },
+    {
       "path": "mods/ferritecore-9.0.0-fabric.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/ferritecore-9.0.0-fabric.jar",
       "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
@@ -189,6 +363,12 @@
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
       "sha256": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
       "size": 609574
+    },
+    {
+      "path": "mods/freelook-1.4.4.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/freelook-1.4.4.jar",
+      "sha256": "97b24a414733d63c6d56a7f04547fdbe5a5cc242c6eb2e2d53753a7a3ed9c8f2",
+      "size": 43892
     },
     {
       "path": "mods/fwa+26.3-1.2.40.jar",
@@ -257,6 +437,12 @@
       "size": 1038435
     },
     {
+      "path": "mods/jamlib-fabric-2.3.1+26.3.x.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/jamlib-fabric-2.3.1%2B26.3.x.jar",
+      "sha256": "008da4bad204ae00d89a6de81e72e04b85f74d1c57132097f2f8b70d871ffd94",
+      "size": 265050
+    },
+    {
       "path": "mods/jasione-1.0.8+26.1.2-fabric.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/jasione-1.0.8%2B26.1.2-fabric.jar",
       "sha256": "0a71b3ac5187c74d1a6b0d1fae50d88b506510c0c2b78bbeeb1b9c2e755b0fb3",
@@ -281,6 +467,12 @@
       "size": 266361
     },
     {
+      "path": "mods/konkrete_fabric_1.11.1_MC_26.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/konkrete_fabric_1.11.1_MC_26.3.jar",
+      "sha256": "5c5e4da4088929ab72859db7dfef88ee5f34e72d0d9322e59f33757a089a773e",
+      "size": 1214374
+    },
+    {
       "path": "mods/language-reload-1.7.8+26.3.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/language-reload-1.7.8%2B26.3.jar",
       "sha256": "b40ae2cc0e06f222ef30ef3d3d9fb54d31c6ab137d650c3734609c4317b98986",
@@ -303,6 +495,12 @@
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/mc-armor-hud-8.1.1.6-26.3-fabric.jar",
       "sha256": "c30cc8cea88e7b2918a88061312fbca4ebf6a6f3f8b94e081d3d1760d701fb41",
       "size": 51262
+    },
+    {
+      "path": "mods/melody_fabric_1.0.17_MC_26.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/melody_fabric_1.0.17_MC_26.3.jar",
+      "sha256": "c889a455aad7a6bcdc2fabfc690fcf87659f4ae64b4b9fd7a8705b4bdb313c67",
+      "size": 681316
     },
     {
       "path": "mods/mezz_config-26.3-fabric-0.6.6.jar",
@@ -347,6 +545,12 @@
       "size": 254973
     },
     {
+      "path": "mods/PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
+      "sha256": "7d0454a358cd86a1ec1a0054e335be6adb6da5b2844893c74226282b489d5409",
+      "size": 406793
+    },
+    {
       "path": "mods/PrickleMC-fabric-MC26.3-26.3.0.2.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/PrickleMC-fabric-MC26.3-26.3.0.2.jar",
       "sha256": "87e1559cdb66684784e25eb08e096f6918e81f6b3c473588a491295ea8bf9682",
@@ -377,10 +581,22 @@
       "size": 119842
     },
     {
+      "path": "mods/rightclickharvest-fabric-4.6.2+26.3.x.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/rightclickharvest-fabric-4.6.2%2B26.3.x.jar",
+      "sha256": "27d20ed4c41e4eb0fae82b6d7164ba739b8330b028da078ffbc580052538e4bb",
+      "size": 280022
+    },
+    {
       "path": "mods/Searchables-fabric-26.3-1.0.2.jar",
       "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/Searchables-fabric-26.3-1.0.2.jar",
       "sha256": "00f9d7f18e7edeb19b843266209d8aaceb591492ad594b8769360cc48297ea4e",
       "size": 79608
+    },
+    {
+      "path": "mods/sit-fabric-26.1.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/mods/sit-fabric-26.1.1-1.5.1.jar",
+      "sha256": "2aca43227db40615741b8b97ca89eac2c9b6a32e5d368e72dcc479bf4a787d9b",
+      "size": 71100
     },
     {
       "path": "mods/smoothswapping-0.9.11-26.3-fabric.jar",
