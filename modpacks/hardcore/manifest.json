@@ -1,0 +1,1124 @@
+{
+  "pack_version": "1.0.0+d69edee85274",
+  "minecraft_version": "1.21.1",
+  "loader": "forge",
+  "loader_version": "47.4.28",
+  "files": [
+    {
+      "path": "mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/886e38ddd9-75ac9e73c60caf58-_1.21.1__SecurityCraft_v1.10.2.1.jar",
+      "sha256": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229",
+      "size": 5193371
+    },
+    {
+      "path": "mods/aaron-1.21.1-1.17.1-build.11.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bc5c10bd6c-ed53785cee9019f7-aaron-1.21.1-1.17.1-build.11.jar",
+      "sha256": "ed53785cee9019f70863a0d646eb3372b121b54d0fe19353b2fdeeaf84fe044c",
+      "size": 336111
+    },
+    {
+      "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f431a88a55-10017a3da78ea63e-accessories-neoforge-1.1.0-beta.53_1.21.1.jar",
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+      "size": 1078697
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/653c3cfc59-a24674330b8de59a-AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "sha256": "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933",
+      "size": 195730
+    },
+    {
+      "path": "mods/aeronauticscompat-1.1.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/1cd4271cbf-5204e1f901f20749-aeronauticscompat-1.1.3.jar",
+      "sha256": "5204e1f901f20749673e384d18f73c1222f97c3efce28ff75c8fe782a55b1226",
+      "size": 43764
+    },
+    {
+      "path": "mods/aeroworks-1.3.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/714fcd5bea-df8ad989320eab09-aeroworks-1.3.0.jar",
+      "sha256": "df8ad989320eab098ce9d90d26c9e413acdbc82ad57b9636ef0a697ae4c7863f",
+      "size": 675196
+    },
+    {
+      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/1135a7775d-795618769ff1ac78-AI-Improvements-1.21-0.5.3.jar",
+      "sha256": "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e",
+      "size": 28984
+    },
+    {
+      "path": "mods/aleetismo-1.0.4-all.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a99f552d22-9eb370dbc7571a2a-aleetismo-1.0.4-all.jar",
+      "sha256": "9eb370dbc7571a2a60f0e9e2a7c7c325f36484f3960e99526671b575b4f8725d",
+      "size": 1622511
+    },
+    {
+      "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/24fee74c66-379893246c33aaa6-Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "sha256": "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb",
+      "size": 25593
+    },
+    {
+      "path": "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/543507a057-07ee6fd24d8427ee-AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+      "sha256": "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b",
+      "size": 84811632
+    },
+    {
+      "path": "mods/antixray-neoforge-1.4.8+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/843f2bd463-5420a6ff3bc2d53d-antixray-neoforge-1.4.8_1.21.1.jar",
+      "sha256": "5420a6ff3bc2d53db330583e09d6b5bf43bdd67e2aea2a5f43add3c9bbd5104f",
+      "size": 128621
+    },
+    {
+      "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/dbf5e55e63-38b48dd6231341c9-appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+      "size": 75804
+    },
+    {
+      "path": "mods/aquatic_creepers-neoforge-1.0.0+1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b24d0f166a-a75976189c627738-aquatic_creepers-neoforge-1.0.0_1.21.jar",
+      "sha256": "a75976189c6277380216f2b7b02faa01afbe3d1f854cf38058a6076ecb65e8c3",
+      "size": 550677
+    },
+    {
+      "path": "mods/architectury-13.0.8-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c4778feabd-5ec578f814e8cca8-architectury-13.0.8-neoforge.jar",
+      "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+      "size": 584004
+    },
+    {
+      "path": "mods/armorhud-4.1-1.21.1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/32a5e1e551-bec2faf49818d0fd-armorhud-4.1-1.21.1-neoforge.jar",
+      "sha256": "bec2faf49818d0fd57363a89fee9c5cba31ec10cce02187efea9e6f8286b159b",
+      "size": 23056
+    },
+    {
+      "path": "mods/artifacts-neoforge-13.2.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a49c889bc6-4a8e1f4d5702937a-artifacts-neoforge-13.2.1.jar",
+      "sha256": "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8",
+      "size": 1030252
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fbc47f5579-22e2467892d3706f-BadOptimizations-2.4.1-1.21.1.jar",
+      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+      "size": 283566
+    },
+    {
+      "path": "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0f4a2bd57c-98addfb68b1e92d4-baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha256": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5",
+      "size": 74380
+    },
+    {
+      "path": "mods/balm-neoforge-1.21.1-21.0.60.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/11ea9537f5-a6d2779da5ceecb3-balm-neoforge-1.21.1-21.0.60.jar",
+      "sha256": "a6d2779da5ceecb35f852b66ab9f6d52b2b847d803c66c3de0cff67a935e5057",
+      "size": 744121
+    },
+    {
+      "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/8cfbf29353-1a97b6ca5c81b3b1-BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+      "size": 481646
+    },
+    {
+      "path": "mods/betterfpsdist-1.21.1-6.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/90cda0793b-0c9a93977f574563-betterfpsdist-1.21.1-6.1.jar",
+      "sha256": "0c9a93977f574563b3fa425a8ea934333ce8ae4e282771dd3bcd4248d56f1b03",
+      "size": 23505
+    },
+    {
+      "path": "mods/betterinvisibility-1.21.1-1.0.6.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f8f1cbe7bd-621352f382db7538-betterinvisibility-1.21.1-1.0.6.jar",
+      "sha256": "621352f382db7538609f5a3f510135e77c595440887c5378e4e3d073cf83a9da",
+      "size": 24025
+    },
+    {
+      "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7412bf9ee0-2e74076c67a78f16-BetterThirdPerson-neoforge-1.9.0.jar",
+      "sha256": "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059",
+      "size": 60941
+    },
+    {
+      "path": "mods/brutalbosses-1.21.1-8.6.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/982c3dc648-b401d41cb2419f51-brutalbosses-1.21.1-8.6.jar",
+      "sha256": "b401d41cb2419f519df4ad65c069578f424b1ea797fbfe28d7b48b868708d75a",
+      "size": 199019
+    },
+    {
+      "path": "mods/caelus-neoforge-7.0.1+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a58e9cd159-432a645557f29de1-caelus-neoforge-7.0.1_1.21.1.jar",
+      "sha256": "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f",
+      "size": 50235
+    },
+    {
+      "path": "mods/carryon-neoforge-1.21.1-2.2.5.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0c02695ab7-467a03769cb981d5-carryon-neoforge-1.21.1-2.2.5.8.jar",
+      "sha256": "467a03769cb981d57f3deff07f65625849a56949e84191e4d4e11ae91d2753ee",
+      "size": 357508
+    },
+    {
+      "path": "mods/CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bba8c88605-5c750762b31ab791-CerbonsAPI-NeoForge-1.21-1.3.0.jar",
+      "sha256": "5c750762b31ab79127df6f455351fe79793d8c2b41e1a0f94b335a5a1123534d",
+      "size": 250545
+    },
+    {
+      "path": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2bd19bcb46-361bb87bb0cd0881-charmofundying-neoforge-9.1.0_1.21.1.jar",
+      "sha256": "361bb87bb0cd0881ab5d1f469595c26c49992d4ed965f2631015135d61f515d1",
+      "size": 178369
+    },
+    {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/54d3e2961b-d72f235cf1f56f2c-Chunky-NeoForge-1.4.23.jar",
+      "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
+      "size": 340572
+    },
+    {
+      "path": "mods/climbable_ropes-2.1.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/90aa718469-2094081bb1b7f964-climbable_ropes-2.1.1.jar",
+      "sha256": "2094081bb1b7f9647955570f190e697dc713eb25f36a028a5a02e461c75d281e",
+      "size": 242108
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/71a8a20218-65e722e0d98431a0-cloth-config-15.0.140-neoforge.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890
+    },
+    {
+      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ab8d3a312d-b524ccdace2ef8fd-Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+      "size": 18382
+    },
+    {
+      "path": "mods/collective-1.21.1-8.39.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/4b4995af0f-ae59b63790c3097f-collective-1.21.1-8.39.jar",
+      "sha256": "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe",
+      "size": 1061931
+    },
+    {
+      "path": "mods/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2bbfee00c8-df39b3747e7571a6-common-networking-neoforge-1.0.21-1.21.1.jar",
+      "sha256": "df39b3747e7571a6b4782fb8c618bb1fc5544662aba515ae4f67b56361448ec8",
+      "size": 26016
+    },
+    {
+      "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/043ecd00a8-e5b2a1cd8ef1b8a4-connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "sha256": "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe",
+      "size": 819976
+    },
+    {
+      "path": "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6f85c0f755-cc525fb6b030d9e4-Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+      "size": 77555
+    },
+    {
+      "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/9c7ff38f30-5e058a4fcb29a538-Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "sha256": "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3",
+      "size": 309763
+    },
+    {
+      "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/40340d348b-f61e750eb2cb4986-corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha256": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
+      "size": 253695
+    },
+    {
+      "path": "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0c19ab0795-43c1ac1043817484-corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "sha256": "43c1ac104381748439f92ea426207b86f93bc641f1d6cfebc08be4a563d91260",
+      "size": 24683
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/29c959cdef-6328049755735159-cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "sha256": "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f",
+      "size": 92722
+    },
+    {
+      "path": "mods/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/1571c7adb4-549c6b3447fbfad2-cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "sha256": "549c6b3447fbfad2e99bd2a0ca034dc433e1ff5975ad505902998bdfcab20f00",
+      "size": 9651
+    },
+    {
+      "path": "mods/CraftPresence-2.7.1+1.21.1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f233a98e9c-575ba634eecb05c0-CraftPresence-2.7.1_1.21.1-neoforge.jar",
+      "sha256": "575ba634eecb05c048d35d5135fb4c282aef9b7909a9215b997e749cba670fbe",
+      "size": 1306084
+    },
+    {
+      "path": "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.10.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/29ac327621-e133e0d82624146a-CrashAssistant-neoforge-1.20.6-1.21.4-1.11.10.jar",
+      "sha256": "e133e0d82624146a3659d668388461b5338c31b33d2f256bf2fe729f22b45b6f",
+      "size": 3161762
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6681fe660a-ef87fe5709f1ba1f-create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "size": 19123767
+    },
+    {
+      "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ea824ed00c-482c90e0e6fe72f3-create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c",
+      "size": 33120013
+    },
+    {
+      "path": "mods/create_aeronautics_throwable_rope_connector-0.4.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/56ffc0369f-70b5f5ed213b1621-create_aeronautics_throwable_rope_connector-0.4.1.jar",
+      "sha256": "70b5f5ed213b1621cd5c61b7a0408e8c26ed074207895d2459dc730601a5922d",
+      "size": 187586
+    },
+    {
+      "path": "mods/create_no_touching-1.0.8Neo-Aeronautics.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ef08af2a89-301373925bdb918f-create_no_touching-1.0.8Neo-Aeronautics.jar",
+      "sha256": "301373925bdb918fb3c0be97cfc84bab0d3f0384062eede3b8f2d1f74d15a150",
+      "size": 277692
+    },
+    {
+      "path": "mods/createaddition-1.6.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7424a476fa-41876c3780b70365-createaddition-1.6.0.jar",
+      "sha256": "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9",
+      "size": 1661802
+    },
+    {
+      "path": "mods/createaeronauticscurios-neoforge-1.21.1-2.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ed8cc0df7e-764349e70e39a7fe-createaeronauticscurios-neoforge-1.21.1-2.1.jar",
+      "sha256": "764349e70e39a7fe5fbdbe393e185e640d90b5ef8b0eb083a85a815096d4402c",
+      "size": 43934
+    },
+    {
+      "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f2039e9607-ea017ab94637032d-createbigcannons-5.11.7_mc.1.21.1.jar",
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
+      "size": 3771506
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/597bab6d10-bd4164b9ec8e2177-CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "sha256": "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887",
+      "size": 1218640
+    },
+    {
+      "path": "mods/creeper-parasites-1.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/99ed62bc7c-7d72bd1d534603b8-creeper-parasites-1.0.jar",
+      "sha256": "7d72bd1d534603b8226ce991ad32752e5bfb93249034a741ae977a11a8d53f07",
+      "size": 7047
+    },
+    {
+      "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/045361335f-11e05dbc97bd3fe1-cristellib-neoforge-1.21.1-3.1.7.jar",
+      "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
+      "size": 583525
+    },
+    {
+      "path": "mods/cultofazazelneoforge-1.1.4.9a.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/5cb47278c6-add901435e6f0340-cultofazazelneoforge-1.1.4.9a.jar",
+      "sha256": "add901435e6f0340ea222531bc5e4a5b89a8eb55f6aee96d7ee7365b2b02e9c4",
+      "size": 10919410
+    },
+    {
+      "path": "mods/cupboard-1.21.1-3.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7ec37ac99a-722847521c1f9bae-cupboard-1.21.1-3.8.jar",
+      "sha256": "722847521c1f9bae079bd3ec1a70b187c3186e71247ddf1182c0ea498cdec067",
+      "size": 28741
+    },
+    {
+      "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0f473354bb-a45df2125c262199-curios-neoforge-9.5.1_1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+      "size": 410690
+    },
+    {
+      "path": "mods/cyclopscore-1.21.1-neoforge-1.29.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/3ae1e010c4-4b35f3ca3c5f3055-cyclopscore-1.21.1-neoforge-1.29.1.jar",
+      "sha256": "4b35f3ca3c5f30558e73219d781a35629bda3ec8be86782b83a8aca229892e1a",
+      "size": 1158134
+    },
+    {
+      "path": "mods/darkloot-neoforge-1.21-1.3.0d.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/5b74935085-b06fcffd40c14625-darkloot-neoforge-1.21-1.3.0d.jar",
+      "sha256": "b06fcffd40c14625f8ce15394eff630e9bb6d7d786442e54e3aa2e94265f34dd",
+      "size": 16402
+    },
+    {
+      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7d54ad0497-ec5d54ae85bc39be-Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
+      "sha256": "ec5d54ae85bc39be3c17b38d800aa8e2fa57a2a1f46464fc1e328ed61eb85041",
+      "size": 119163
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/aa8c79e8d1-7eee1eca7e3b2c6c-DungeonsArise-1.21.1-2.1.68-release.jar",
+      "sha256": "7eee1eca7e3b2c6c1bede055934f391ae2e8349ffe33e106f451176d2cfcf0e4",
+      "size": 11842679
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/46c6c98eae-78cb67c9faeff5d1-dynamic-fps-3.11.4_minecraft-1.21.0-neoforge.jar",
+      "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+      "size": 220193
+    },
+    {
+      "path": "mods/dynamiclights-1.21.1.2NF.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7a972f6de2-065ac4275f0d8f82-dynamiclights-1.21.1.2NF.jar",
+      "sha256": "065ac4275f0d8f823892310bc3774655512f55f36ba97c4544b323b4da67bf0e",
+      "size": 49110
+    },
+    {
+      "path": "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/450c4b900a-055b07436bc0c4f1-dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+      "sha256": "055b07436bc0c4f175345657e09e5375a529520aa1f9d06af557b413d7815fc6",
+      "size": 426439
+    },
+    {
+      "path": "mods/eatinganimation-1.21.0-6.0.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/d792a124bb-3b222ada8de0cd98-eatinganimation-1.21.0-6.0.1.jar",
+      "sha256": "3b222ada8de0cd982b755019cb9ada012d0f8a440fb67f2bdc634c241b7481cb",
+      "size": 289863
+    },
+    {
+      "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/8cbcec275e-c3908b14549addaa-elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "sha256": "c3908b14549addaa18951c473d2d1f67a3df61bcf5599c6031e71ca5685bf14c",
+      "size": 191190
+    },
+    {
+      "path": "mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/23f8fbbf0a-d86adf384390c40b-elytraslot-neoforge-9.0.2_1.21.1.jar",
+      "sha256": "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399",
+      "size": 65086
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7414739a65-8cff63e900acd55b-emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "sha256": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43",
+      "size": 861829
+    },
+    {
+      "path": "mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/53ceb571f7-eb0d2c334278d2ca-Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
+      "sha256": "eb0d2c334278d2ca648ad43b29286ab9d58df59c2329ca605d1e039935b95b9d",
+      "size": 1611531
+    },
+    {
+      "path": "mods/EnhancedVisuals_NEOFORGE_v1.8.29_mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/936b973de1-570190f7cf948fae-EnhancedVisuals_NEOFORGE_v1.8.29_mc1.21.1.jar",
+      "sha256": "570190f7cf948faefbbc8f51a043012f4c2a26604bbf876a9289e45c7034255a",
+      "size": 4729515
+    },
+    {
+      "path": "mods/evilcraft-1.21.1-neoforge-1.2.89.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/897089c18e-883435407556fff0-evilcraft-1.21.1-neoforge-1.2.89.jar",
+      "sha256": "883435407556fff0c88fa40812f3422c7bac7bdb62a734119b31d7f943b0d0e2",
+      "size": 2834828
+    },
+    {
+      "path": "mods/excessive-utilities-1.21.1-1.7.1-build.6.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ad1882ecf0-7c63754088209708-excessive-utilities-1.21.1-1.7.1-build.6.jar",
+      "sha256": "7c63754088209708392cd65838ec6bc86b107b12f171c8f1a53f93196d985563",
+      "size": 7522948
+    },
+    {
+      "path": "mods/Explorify v1.6.5.mod.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/1cb6213bcf-2dc76398b48b2aae-Explorify_v1.6.5.mod.jar",
+      "sha256": "2dc76398b48b2aae9b4024642da098b0880125572de160cb5ecf91d102890cad",
+      "size": 767884
+    },
+    {
+      "path": "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/e13bdeb320-dc161b5a6fdc5707-explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "sha256": "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260",
+      "size": 86058
+    },
+    {
+      "path": "mods/farsight-1.21.1-5.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/247ffc9b44-741851d107e0e105-farsight-1.21.1-5.1.jar",
+      "sha256": "741851d107e0e105da6efc863bb1e787a2ab57b70b7086daeee0b325d20afae2",
+      "size": 388544
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2f2ca11a29-d87ea28262715ebf-ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+      "size": 121559
+    },
+    {
+      "path": "mods/FpsReducer2-neoforge-1.21-2.10.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0b9c52fef8-f3afa8a76ae8f320-FpsReducer2-neoforge-1.21-2.10.jar",
+      "sha256": "f3afa8a76ae8f320610d6e50970881722a758c1c23ded4831293d1c81adbce21",
+      "size": 143137
+    },
+    {
+      "path": "mods/fragmentum-neoforge-1.21.1-2.2.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f167c3cb72-15951685cdf983b3-fragmentum-neoforge-1.21.1-2.2.4.jar",
+      "sha256": "15951685cdf983b3ddd4118d64aa87fe2715ba13492866c339e5a7ab77b7e52a",
+      "size": 1936521
+    },
+    {
+      "path": "mods/ftb-essentials-neoforge-2101.1.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/849aac43c3-4da8e4d461ceef1a-ftb-essentials-neoforge-2101.1.9.jar",
+      "sha256": "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf",
+      "size": 209459
+    },
+    {
+      "path": "mods/ftb-library-neoforge-2101.1.32.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/10d0940a8a-6308e71fec7095f6-ftb-library-neoforge-2101.1.32.jar",
+      "sha256": "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354",
+      "size": 1416263
+    },
+    {
+      "path": "mods/ftb-quests-neoforge-2101.1.27.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/602320e4d3-460b163ebefb4580-ftb-quests-neoforge-2101.1.27.jar",
+      "sha256": "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03",
+      "size": 1470929
+    },
+    {
+      "path": "mods/ftb-teams-neoforge-2101.1.10.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/be08664dbc-a656f2aa0e11a933-ftb-teams-neoforge-2101.1.10.jar",
+      "sha256": "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c",
+      "size": 302712
+    },
+    {
+      "path": "mods/fusion-1.3.5-neoforge-mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/de547a3184-848b618be23ad4d0-fusion-1.3.5-neoforge-mc1.21.1.jar",
+      "sha256": "848b618be23ad4d02686285d640de6ac44e5b22ebcf25bcc2957fb7530ddccef",
+      "size": 893204
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/112f25abb6-4e5cc1438087b0bc-fzzy_config-0.7.6_1.21_neoforge.jar",
+      "sha256": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "size": 2369895
+    },
+    {
+      "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b5ae5e727f-5e548466af9ab6ac-geckolib-neoforge-1.21.1-4.9.2.jar",
+      "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
+      "size": 630584
+    },
+    {
+      "path": "mods/ghost_villager-neoforge-1.0.0+1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2e449d0c96-0a2b87338f425025-ghost_villager-neoforge-1.0.0_1.21.jar",
+      "sha256": "0a2b87338f425025fa235fb486a1def3422139553f60168f027f27fe90811848",
+      "size": 789075
+    },
+    {
+      "path": "mods/giantspawn-1.21.1-5.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/770d7aeed2-3c6eca865f594b0d-giantspawn-1.21.1-5.3.jar",
+      "sha256": "3c6eca865f594b0ddc329c81168ebe6bd16a026ba84d751ea8150c0c06f93bb0",
+      "size": 53668
+    },
+    {
+      "path": "mods/gml-6.0.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7b10d9beeb-c508464433fc7739-gml-6.0.2.jar",
+      "sha256": "c508464433fc7739c1aa6a7208c5dbf2c02038fe9813f98187b3fb10e457d2bd",
+      "size": 10981280
+    },
+    {
+      "path": "mods/gpumemleakfix-1.21-1.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c07b3193ec-4bd0682e26b8d4ba-gpumemleakfix-1.21-1.8.jar",
+      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+      "size": 6574
+    },
+    {
+      "path": "mods/Highlighter-1.21-neoforge-1.1.11.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bea040e8d6-cc9480a383a8f9bc-Highlighter-1.21-neoforge-1.1.11.jar",
+      "sha256": "cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b",
+      "size": 30417
+    },
+    {
+      "path": "mods/horde_hoard-neoforge-1.1.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c18e8677ac-ebedbf0b4eadff29-horde_hoard-neoforge-1.1.0.jar",
+      "sha256": "ebedbf0b4eadff29f00857811c0d1f83fa442fd66373ba231d9db70a8a5e307c",
+      "size": 61311
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/d350417600-0d620c975619b041-Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c",
+      "size": 213853
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0d180653ec-336df12f099d1a44-ImmediatelyFast-NeoForge-1.6.11_1.21.1.jar",
+      "sha256": "336df12f099d1a441a3e06850bea86e9c2d0c8bc022d3d9a201870a201562a04",
+      "size": 361795
+    },
+    {
+      "path": "mods/immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/185bc29867-e9b6f1975ca5e1d9-immersive_armors-1.7.6_1.21.1-neoforge.jar",
+      "sha256": "e9b6f1975ca5e1d92d73f60c5a86fe2d45d6be43497e3c1d013afe495e298ccc",
+      "size": 1274167
+    },
+    {
+      "path": "mods/immersive_portals-6.0.7-all.jar.disabled",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fa2eb08b92-a7ec4e0fded029f5-immersive_portals-6.0.7-all.jar.disabled",
+      "sha256": "a7ec4e0fded029f5ed445b297857e907346591a5805d595f1734a2773c8b403d",
+      "size": 1864746
+    },
+    {
+      "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fec238865c-6b914e305f27962a-ImmersiveUI-NEOFORGE-0.3.3_1.21.1.jar",
+      "sha256": "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
+      "size": 217081
+    },
+    {
+      "path": "mods/infernalmobs-1.21.1.3NF.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/109e1db4e7-331ce9d68ca4b135-infernalmobs-1.21.1.3NF.jar",
+      "sha256": "331ce9d68ca4b1358368a825532666a8cf3ca2a0de2f09c953ebe8ba86b58738",
+      "size": 141468
+    },
+    {
+      "path": "mods/inventorysorter-1.21.1-24.0.24.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/d68f61fe56-6fde143f12b608ae-inventorysorter-1.21.1-24.0.24.jar",
+      "sha256": "6fde143f12b608aec80f590f16ff91787043796dee6642f46f82e4df029c6544",
+      "size": 53363
+    },
+    {
+      "path": "mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/88ff75da99-dae66a38a33c2ada-ironchest-1.21-neoforge-16.0.7.jar",
+      "sha256": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf",
+      "size": 305975
+    },
+    {
+      "path": "mods/ItemBorders-1.21-neoforge-1.2.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/39888296fe-6ad3a4f3ea1c56fb-ItemBorders-1.21-neoforge-1.2.5.jar",
+      "sha256": "6ad3a4f3ea1c56fb8600db9cbdbe2de9c50b217f9981de134b44aab216da83b9",
+      "size": 23511
+    },
+    {
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0486f05e09-067bb4b007e1d6f6-Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+      "size": 725742
+    },
+    {
+      "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/75c84caf1d-5f242668ad710092-JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "sha256": "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64",
+      "size": 74419
+    },
+    {
+      "path": "mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bc5e4d7b8c-911afdfe717a2375-jamlib-neoforge-1.3.6_1.21.1.jar",
+      "sha256": "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514",
+      "size": 188553
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/e895d650d4-2b6d84df11ab2bb9-jei-1.21.1-neoforge-19.27.0.336.jar",
+      "sha256": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721",
+      "size": 1529192
+    },
+    {
+      "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a2e1c60a05-7a47d69b55307046-JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "sha256": "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460",
+      "size": 292088
+    },
+    {
+      "path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/78422eaf1d-83f1701f7802d435-justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "sha256": "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1",
+      "size": 43798
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6087f8842e-791c5538751dd301-konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+      "size": 618842
+    },
+    {
+      "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f55ffb1ec0-095aed94f21b4e55-kotlinforforge-5.12.0-all.jar",
+      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+      "size": 7279276
+    },
+    {
+      "path": "mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bab5d5e638-074ffdbe34bf97b7-letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "sha256": "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a",
+      "size": 14911
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7b632466cf-488f33216030c1cb-lithium-neoforge-0.15.4_mc1.21.1.jar",
+      "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
+      "size": 774220
+    },
+    {
+      "path": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/8fa5f21d0c-a90b1d485b138328-lithostitched-1.7.13-neoforge-21.1.jar",
+      "sha256": "a90b1d485b138328ceaa156b7897b0829eb1ee1522b997870a53129ae65e5512",
+      "size": 852541
+    },
+    {
+      "path": "mods/LittleFrames_NEOFORGE_v1.4.7_mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/e4693f453c-d39e493f6a4ea2f9-LittleFrames_NEOFORGE_v1.4.7_mc1.21.1.jar",
+      "sha256": "d39e493f6a4ea2f9696e2e84f109ae4331032d1c17d97b043f4edc7e88dc96d5",
+      "size": 73692
+    },
+    {
+      "path": "mods/Loot Beams Refork-neoforge-1.21.1-3.4.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/157578f5b8-0f832a3400179643-Loot_Beams_Refork-neoforge-1.21.1-3.4.7.jar",
+      "sha256": "0f832a34001796432455332bb6a369c6cd03e9729b7c0862362f0cb4ba2edbb7",
+      "size": 522358
+    },
+    {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6799a9df38-fd330d69bb0740d2-lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "sha256": "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce",
+      "size": 992330
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/3071147312-87261e309f5e10c9-mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha256": "87261e309f5e10c9910169d5acbba613cab3a2d2270698b0bd47e657a45b0518",
+      "size": 1190404
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c33678c51f-e4b0e5a5b67decc2-mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "sha256": "e4b0e5a5b67decc2285e71f017fb4f60284796fa0838de3edeaf6b7cb0395735",
+      "size": 673871
+    },
+    {
+      "path": "mods/minebet-1.0.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ae32db34a7-496b09f31f83f277-minebet-1.0.1.jar",
+      "sha256": "496b09f31f83f2771c722bcdf531bafc397049f01249409f07cd0571733319c7",
+      "size": 27720718
+    },
+    {
+      "path": "mods/mobawareness-1.21.1-neoforge-1.0.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/87b135343b-4e73ad0c9cfba973-mobawareness-1.21.1-neoforge-1.0.1.jar",
+      "sha256": "4e73ad0c9cfba973799eb7fa8f69248ed03d637d14b561729d29bc6a2c382d69",
+      "size": 360194
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.15+mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7d3d3e7895-60bad0cb2436b8f5-modernfix-neoforge-5.27.15_mc1.21.1.jar",
+      "sha256": "60bad0cb2436b8f5dd277d752e83f05b244477da85ba01456b2bfe01f1ede850",
+      "size": 597318
+    },
+    {
+      "path": "mods/moogs_structures-neoforge-1.21.1-3.0.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/021a67020d-44003a6f056bbbb5-moogs_structures-neoforge-1.21.1-3.0.0.jar",
+      "sha256": "44003a6f056bbbb5ff501bfa5e255c5567eeaf2bcdfcaf10cba95df9cfd5e428",
+      "size": 336580
+    },
+    {
+      "path": "mods/MoogsNetherStructures-1.21-3.0.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/090bbb75c6-024bce3098fcba6b-MoogsNetherStructures-1.21-3.0.0.jar",
+      "sha256": "024bce3098fcba6b7eb55f3526708cbf9dfdf3b074da057ce72b896a2567a6af",
+      "size": 3794509
+    },
+    {
+      "path": "mods/MoogsVoyagerStructures-1.21-5.0.14.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/934d2b074c-28695cbb33b7af50-MoogsVoyagerStructures-1.21-5.0.14.jar",
+      "sha256": "28695cbb33b7af504c3b4b44dfec2449ea9c5fa4923c801d8558c965fb16bdc7",
+      "size": 1796857
+    },
+    {
+      "path": "mods/more_armor_trims-neoforge-1.5.3-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b239c16cb0-90c0ac3743388132-more_armor_trims-neoforge-1.5.3-1.21.1.jar",
+      "sha256": "90c0ac374338813210f9a92242193f47166eb354706b44b8a3360fe137c70717",
+      "size": 164084
+    },
+    {
+      "path": "mods/MoreTotems-neoforge-1.21-2.20.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6a2b647090-27fd3b225653ebb3-MoreTotems-neoforge-1.21-2.20.3.jar",
+      "sha256": "27fd3b225653ebb3ebc72a4f5e4378b8c99b64505f0b8ea919daa5d6832d937d",
+      "size": 65818
+    },
+    {
+      "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c39e52bab5-68e6f4201c5de97b-MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+      "size": 73938
+    },
+    {
+      "path": "mods/nethervillagertrader-2.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/f5647cc937-407108c04bd4047d-nethervillagertrader-2.0.0-neoforge-1.21.1.jar",
+      "sha256": "407108c04bd4047da91c7b22535ad68ee38eaa721db21e174fc31d1cfcc5579b",
+      "size": 103235
+    },
+    {
+      "path": "mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/76ee147d73-077df852c512f4a3-Nirvana_Lib-neoforge-1.21.1-2.2.0.jar",
+      "sha256": "077df852c512f4a3ba9562d6745dd28835f8827bafef2b6f80c56d7f27549701",
+      "size": 1266810
+    },
+    {
+      "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c23de35833-ad4abc829b00061d-Not_Enough_Recipe_Book-NEOFORGE-0.4.3_1.21.jar",
+      "sha256": "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0",
+      "size": 23830
+    },
+    {
+      "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a03ce7579a-a8705202193813de-notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "sha256": "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f",
+      "size": 1939625
+    },
+    {
+      "path": "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6ff9d4fcc3-42f0876d0c4a7d8e-obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+      "sha256": "42f0876d0c4a7d8e83231c542c00c80d6f3e0b3a12197dd94b695f8749d938d2",
+      "size": 448523
+    },
+    {
+      "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2fa5beff9d-92ba07d9d9e55a65-OctoLib-NEOFORGE-0.6.2_1.21.jar",
+      "sha256": "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
+      "size": 544378
+    },
+    {
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/414edd7892-de6ed336bd80154b-owo-lib-neoforge-0.12.15.5-beta.1_1.21.jar",
+      "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+      "size": 1221583
+    },
+    {
+      "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/851419ad47-50aab835b0f98ded-Pehkui-3.8.3_1.21-neoforge.jar",
+      "sha256": "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec",
+      "size": 507568
+    },
+    {
+      "path": "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ef16f0b285-b49535698de9c7b5-PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+      "sha256": "b49535698de9c7b5a879c8ec99175771d87d5261d5cc4c6152ba1fa51fc5676a",
+      "size": 97094
+    },
+    {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/6fb52651e3-dbe5de45f5cd60c0-player-animation-lib-forge-2.0.4_1.21.1.jar",
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+      "size": 203149
+    },
+    {
+      "path": "mods/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/dc36a7c651-bb0f482c43156e9f-PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+      "sha256": "bb0f482c43156e9fbdea8e6309c707c62f301d673e5e5e5b268315d0b9272276",
+      "size": 5307768
+    },
+    {
+      "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/252aaca472-ccf46c442ed3c7fe-prickle-neoforge-1.21.1-21.1.11.jar",
+      "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+      "size": 84812
+    },
+    {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/49d7299b34-b6a1e585416c48d7-Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha256": "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2",
+      "size": 62031
+    },
+    {
+      "path": "mods/psycho_villagers-0.2.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/46ea53ffce-d86fba65add0a22c-psycho_villagers-0.2.4.jar",
+      "sha256": "d86fba65add0a22ca997a1196e3ff115a06be82c62ac6e4a1208ab266e103a21",
+      "size": 1476631
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/125d931583-00069866c4c6bb67-PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "sha256": "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c",
+      "size": 1425176
+    },
+    {
+      "path": "mods/Raided-1.21.1-0.1.6.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/0cff454a09-e0d1517416c1b01b-Raided-1.21.1-0.1.6.jar",
+      "sha256": "e0d1517416c1b01b1076066cb36c9b55d9bcbef04ebe783abc45604b8a579d03",
+      "size": 135536
+    },
+    {
+      "path": "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/2049a02146-25812f308a87c046-reeses-sodium-options-neoforge-2.2.3_mc1.21.1.jar",
+      "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e",
+      "size": 260876
+    },
+    {
+      "path": "mods/relics-1.21.1-0.10.7.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a691b02893-024f63a0706a94fb-relics-1.21.1-0.10.7.8.jar",
+      "sha256": "024f63a0706a94fbb4dff5fb6534500817f72751a0e16577fe117e510b056e5c",
+      "size": 2753166
+    },
+    {
+      "path": "mods/responsiveshields-2.4-neoforge-mc1.21.x.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/9184e7542d-529ab63a93b31734-responsiveshields-2.4-neoforge-mc1.21.x.jar",
+      "sha256": "529ab63a93b31734b80166e73c10f5a356defb660a5cc985caaf499b17c0145e",
+      "size": 64831
+    },
+    {
+      "path": "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/9caf035bc3-b5d597ed361964ba-rightclickharvest-neoforge-4.6.1_1.21.1.jar",
+      "sha256": "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52",
+      "size": 287634
+    },
+    {
+      "path": "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/cea42d40c4-cc509060833736fb-ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
+      "size": 76369
+    },
+    {
+      "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/58cb99ca6a-da6c3b6623858660-sable-neoforge-1.21.1-2.0.3.jar",
+      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279",
+      "size": 12889000
+    },
+    {
+      "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ac27783a3f-ca193f0c69033d8f-Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+      "size": 77326
+    },
+    {
+      "path": "mods/shieldexp-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/cf6573e518-473e21856abbf1d3-shieldexp-neoforge-1.21.1-1.4.1.jar",
+      "sha256": "473e21856abbf1d37edce8310f9c1e894064a8e9b0b0086e2f12810ce5709364",
+      "size": 265980
+    },
+    {
+      "path": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b55640751b-d24d5f4794b06994-silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+      "sha256": "d24d5f4794b069941845c1bde30475f8ea6066635ddb1139d706f6a627b4c0f3",
+      "size": 3147675
+    },
+    {
+      "path": "mods/silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/e6314c739d-e5676f940802af3b-silent-lib-1.21.1-neoforge-10.6.0.jar",
+      "sha256": "e5676f940802af3b7f2c393dc6c74d6c68d657efca4135478c5b54ced06950d1",
+      "size": 268791
+    },
+    {
+      "path": "mods/simple_weather-1.0.13-hotfix.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7bbb5494e9-bb8f5a73ad7e32d8-simple_weather-1.0.13-hotfix.jar",
+      "sha256": "bb8f5a73ad7e32d82149a1ba7bd1cb494cdfabe346fe196f1a2c30eae4216325",
+      "size": 82792
+    },
+    {
+      "path": "mods/skinrestorer-2.9.0+1.21-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/29cc31e6c6-841f8ed0805ae069-skinrestorer-2.9.0_1.21-neoforge.jar",
+      "sha256": "841f8ed0805ae0697e2a25b4da0e1d87094886c455178e52bd487cc46332bbef",
+      "size": 257883
+    },
+    {
+      "path": "mods/slotsmachine1.21.1-1.1.8.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/8ff30b476f-8788f9de1265f39c-slotsmachine1.21.1-1.1.8.jar",
+      "sha256": "8788f9de1265f39c70de15bc343aaf90bcb6d18eb122f2d7a6661780500b322a",
+      "size": 105149
+    },
+    {
+      "path": "mods/smoothchunk-1.21-4.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/cf1265b8a5-a79f06eaffe7e5b8-smoothchunk-1.21-4.1.jar",
+      "sha256": "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3",
+      "size": 12852
+    },
+    {
+      "path": "mods/smoothgui-neoforge-2.0.1+mc1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bfd76c030c-6c3e7e5a51741c17-smoothgui-neoforge-2.0.1_mc1.21.jar",
+      "sha256": "6c3e7e5a51741c1729663b86ffb778f66f216a554f8a91211ab3d10c8e37961a",
+      "size": 695696
+    },
+    {
+      "path": "mods/smoothmovement-1.21.1-2.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c8ea643bda-af912c4992eb9cb4-smoothmovement-1.21.1-2.7.jar",
+      "sha256": "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57",
+      "size": 41517
+    },
+    {
+      "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/149a3b1040-fa553bce38bad6fd-sodium-extra-neoforge-0.9.3_mc1.21.1.jar",
+      "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186",
+      "size": 465013
+    },
+    {
+      "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/983bfb902b-2f9e69ec9521e657-sodium-neoforge-0.8.12_mc1.21.1.jar",
+      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
+      "size": 1291418
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.68.1971.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/c1d691bd75-e87223d5569b3e7e-sophisticatedbackpacks-1.21.1-3.25.68.1971.jar",
+      "sha256": "e87223d5569b3e7e9b2c41b953c154396c6f8f90c0a73268531df0721fe7392b",
+      "size": 1142225
+    },
+    {
+      "path": "mods/sophisticatedcore-1.21.1-1.4.69.2125.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/07c24422e1-79aaf0af0dcf7776-sophisticatedcore-1.21.1-1.4.69.2125.jar",
+      "sha256": "79aaf0af0dcf7776c6623d3859ebdf6cf662a12460ae713a0da3733e03b47287",
+      "size": 1650849
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/26a5d9a1e3-65372ad64422a20f-sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha256": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177",
+      "size": 202454
+    },
+    {
+      "path": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/4054175f3f-647e8a81afbe414d-spark-1.10.124-neoforge.jar",
+      "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+      "size": 3642581
+    },
+    {
+      "path": "mods/SSCA-v1-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/396ccca3c3-5e36cfe2e7e84ad3-SSCA-v1-1.21.1.jar",
+      "sha256": "5e36cfe2e7e84ad3724574adfa3107ecde32f76fbe15ca1b90a50499ef97b4a0",
+      "size": 394907
+    },
+    {
+      "path": "mods/ssp_watchtowers-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/42a2c31944-7df3a66e00031fa4-ssp_watchtowers-1.0.0-neoforge-1.21.1.jar",
+      "sha256": "7df3a66e00031fa44d37c688a0dcc32fda39f0b70f38c4369053c3f6cca88080",
+      "size": 95115
+    },
+    {
+      "path": "mods/stackrefill-1.21.1-4.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/97d8abc4b6-df72648ab19d97aa-stackrefill-1.21.1-4.9.jar",
+      "sha256": "df72648ab19d97aa8646d768b0da1f07b3313d1d0478b2792a597ffa973b7b04",
+      "size": 46964
+    },
+    {
+      "path": "mods/Structory_26.2_v1.3.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/9e5d527593-e9079b2bb9bc2efb-Structory_26.2_v1.3.7.jar",
+      "sha256": "e9079b2bb9bc2efb9b0f1244376488e41f8b50f25415094d8f03dc753cdfb131",
+      "size": 1261346
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fe00c44cdd-d2ba7b839a2268e4-supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
+      "size": 207514
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/117d27c3ef-d22b6dfea6922cb5-supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "sha256": "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8",
+      "size": 558371
+    },
+    {
+      "path": "mods/the_boy_and_the_bath-4.0.1-neoforge-1.21.1.jar.disabled",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fb39ec197a-1cc460078eacf9d8-the_boy_and_the_bath-4.0.1-neoforge-1.21.1.jar.disabled",
+      "sha256": "1cc460078eacf9d8682ec1aada777730e66d5eca3dbb2d456243949d06b1cd05",
+      "size": 911332
+    },
+    {
+      "path": "mods/thefinalgoatman-1.21.1-1.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a2d535d694-01b9e1e08a1c8d80-thefinalgoatman-1.21.1-1.0.jar",
+      "sha256": "01b9e1e08a1c8d80e37406ea8a950c685d8c1d6444f4496c526922b041ccb1db",
+      "size": 2124908
+    },
+    {
+      "path": "mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/acfb27d937-db9a2fa385757656-torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "sha256": "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806",
+      "size": 130605
+    },
+    {
+      "path": "mods/trashcans-1.0.18c-neoforge-mc1.21.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/62a77c159d-5d05b498f7c6a6a0-trashcans-1.0.18c-neoforge-mc1.21.jar",
+      "sha256": "5d05b498f7c6a6a00deda3b4f66206a5269b69f9c031b1faf5a5e75c0f2b449a",
+      "size": 159808
+    },
+    {
+      "path": "mods/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/968f7571b9-3289b5c84a79e63d-trashslot-neoforge-1.21.1-21.1.11.jar",
+      "sha256": "3289b5c84a79e63d83d4ce05d8e3e15b622b2e286e0770b86f00807974a77695",
+      "size": 77535
+    },
+    {
+      "path": "mods/UniLib-1.2.1+1.21.1-neoforge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/ed3b74e278-f0d7c2a2df4e3722-UniLib-1.2.1_1.21.1-neoforge.jar",
+      "sha256": "f0d7c2a2df4e37229c27860a2296043fbf807b4a97265a3cc0997d03bb81fcaf",
+      "size": 1583972
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.20.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/bdace2037e-1e387494cec15655-voicechat-neoforge-1.21.1-2.6.20.jar",
+      "sha256": "1e387494cec156553557d0996cee6dbf6ca606e371782f723ff08d3e9905fe3c",
+      "size": 4910868
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/dbf804d309-cdd8e1b50e4dee08-watermedia-2.1.37.jar",
+      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
+      "size": 37046674
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/da82d803a0-99629d764034cc37-watermedia_youtube_plugin-2.1.1.jar",
+      "sha256": "99629d764034cc37edfeba0e764df1d66ebf9806b83cf6eb7c9636e998d35a81",
+      "size": 3808537
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.2.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/544fe914f2-882e85df88592325-xaerominimap-neoforge-1.21.1-26.2.0.jar",
+      "sha256": "882e85df885923251ec1d3cf63b274b2a0a028ea1cbf603abedd6ace4c2adc95",
+      "size": 2173476
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.42.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/fcd5f74047-8b200d28b9f3d057-xaeroworldmap-neoforge-1.21.1-1.42.0.jar",
+      "sha256": "8b200d28b9f3d05712f892f968d54ad70fe8bd99335da176a62b2b98d94df373",
+      "size": 1407266
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/d996a8ada5-08e1d21690d3213a-YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha256": "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+      "size": 388678
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/7552995a83-aa94ae3e7fdacb46-YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "sha256": "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
+      "size": 392794
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/a67e22daaf-2c3191ad447092cc-YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha256": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+      "size": 905839
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/1f62bdb698-61816c3b7c9d92c6-YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
+      "size": 782160
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b4277cf585-a0d57b78c7a18917-YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+      "size": 795839
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/b661e8d075-5450a64a7036237f-YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+      "size": 609639
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-hardcore-d69edee85274d0c1/8c8f05c77f-cdcf8fe0e08c7526-YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha256": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+      "size": 1025571
+    }
+  ]
+}
