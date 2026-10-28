@@ -1,8 +1,0 @@
-{
-  "version": "2.0.1",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.0.1-update.zip",
-  "sha256": "afe83dab4847b3993ea3fd6ae7b28bab2cb891bc74a06f7c24263e4310558c89",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.0.1.exe",
-  "exe_sha256": "832c6017aa2406488da6778215641ede99dc705510b00661acb99a154ffbf16c",
-  "notes": "AleLauncher v2.0.1: Dinamicas ahora usa Minecraft 1.20.1 con Forge 47.4.28 (reemplaza su antigua configuración NeoForge). Nueva ID interna para mantener separadas las carpetas y prevenir mezclas de mods; catálogo remoto protegido contra versiones antiguas. Se mantienen AleeStudios, BANEALAND, Microsoft/Offline, actualizaciones, modpacks independientes y todas las pantallas."
-}
