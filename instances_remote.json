@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "instances": [
+    {
+      "id": "aleestudios-26.3",
+      "name": "AleeStudios",
+      "minecraft_version": "26.3",
+      "loader": "fabric",
+      "loader_version": "0.19.5",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": "158.69.63.139",
+      "server_port": 25512,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/manifest.json",
+      "display_name": "AleeStudios",
+      "enabled": true,
+      "status": "available",
+      "description": "Servidor principal • Fabric 26.3"
+    },
+    {
+      "id": "banealand-1.21.1",
+      "name": "BANEALAND",
+      "minecraft_version": "1.21.1",
+      "loader": "neoforge",
+      "loader_version": "21.1.231",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": null,
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealand/manifest.json",
+      "enabled": true,
+      "status": "coming_soon",
+      "description": "NeoForge 1.21.1 • se habilita al publicar el modpack"
+    },
+    {
+      "id": "dinamicas-forge-1.20.1",
+      "name": "Dinamicas",
+      "display_name": "Dinamicas",
+      "minecraft_version": "1.20.1",
+      "loader": "forge",
+      "loader_version": "47.4.28",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": null,
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/dinamicas/manifest.json",
+      "enabled": true,
+      "status": "coming_soon",
+      "description": "Forge 47.4.28 • esperando modpack y prueba de instalación"
+    }
+  ]
+}
