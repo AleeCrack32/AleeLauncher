@@ -50,7 +50,7 @@
       "server": null,
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/dinamicas/manifest.json",
-      "enabled": true,
+      "enabled": false,
       "status": "available",
       "description": "Forge 47.4.28 • esperando modpack y prueba de instalación"
     }
