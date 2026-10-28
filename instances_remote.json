@@ -33,8 +33,9 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealand/manifest.json",
       "enabled": true,
-      "status": "coming_soon",
-      "description": "NeoForge 1.21.1 • Proximamente.."
+      "status": "hidden",
+      "description": "NeoForge 1.21.1 • Proximamente..",
+      "display_name": "BANEALAND"
     },
     {
       "id": "dinamicas-forge-1.20.1",
