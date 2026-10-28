@@ -1,330 +1,324 @@
 {
-  "pack_version": "1.0.0+fbed8daa2038",
+  "pack_version": "1.0.0+b0acc6db0b67",
   "minecraft_version": "1.20.1",
   "loader": "forge",
   "loader_version": "47.4.28",
   "files": [
     {
       "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/f378c45dab-537f84f1153369d6-AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/f378c45dab-537f84f1153369d6-AdvancementPlaques-1.20.1-forge-1.6.9.jar",
       "sha256": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2",
       "size": 208850
     },
     {
       "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/fcb3024ee3-e12419e43e3babc8-appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/fcb3024ee3-e12419e43e3babc8-appleskin-forge-mc1.20.1-2.5.1.jar",
       "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
       "size": 47428
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/205f7c92dc-218b471d0b8a1f6c-architectury-9.2.14-forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/205f7c92dc-218b471d0b8a1f6c-architectury-9.2.14-forge.jar",
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
       "size": 580602
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/a1f7e586fb-3da53cdf856757d9-BadOptimizations-2.4.1-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/a1f7e586fb-3da53cdf856757d9-BadOptimizations-2.4.1-1.20.1.jar",
       "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
       "size": 460234
     },
     {
       "path": "mods/balm-forge-1.20.1-7.3.44.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/0ec1f577d6-ad11d968770bb1ce-balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/0ec1f577d6-ad11d968770bb1ce-balm-forge-1.20.1-7.3.44.jar",
       "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3",
       "size": 561741
     },
     {
       "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/5f05e5cd4c-e46ced73bdf78a59-BetterF3-7.0.2-Forge-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/5f05e5cd4c-e46ced73bdf78a59-BetterF3-7.0.2-Forge-1.20.1.jar",
       "sha256": "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
       "size": 468517
     },
     {
       "path": "mods/BetterThirdPerson-Forge-1.20-1.9.0.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/96114b5398-e8b575996cc5ff40-BetterThirdPerson-Forge-1.20-1.9.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/96114b5398-e8b575996cc5ff40-BetterThirdPerson-Forge-1.20-1.9.0.jar",
       "sha256": "e8b575996cc5ff40e010161cca8923b8367ce210999da7f00487d4ce0de63755",
       "size": 61525
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/d911aa572b-1e895e85cf5b1e19-cloth-config-11.1.136-forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/d911aa572b-1e895e85cf5b1e19-cloth-config-11.1.136-forge.jar",
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
       "size": 1181413
     },
     {
       "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/74d26bdf88-1d1cfcf386f182b1-Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/74d26bdf88-1d1cfcf386f182b1-Clumps-forge-1.20.1-12.0.0.4.jar",
       "sha256": "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
       "size": 20299
     },
     {
       "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/f99f3c63ed-516308a93824119f-Controlling-forge-1.20.1-12.0.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/f99f3c63ed-516308a93824119f-Controlling-forge-1.20.1-12.0.2.jar",
       "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
       "size": 115280
     },
     {
       "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/f5736e166e-8d77c5fc8dc981c7-corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/f5736e166e-8d77c5fc8dc981c7-corpse-forge-1.20.1-1.0.23.jar",
       "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
       "size": 245644
     },
     {
       "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/5e2f4d25cb-c790e8671625b05e-cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/5e2f4d25cb-c790e8671625b05e-cosmeticarmorreworked-1.20.1-v1a.jar",
       "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
       "size": 88752
     },
     {
       "path": "mods/craftingtweaks-forge-1.20.1-18.2.9.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/5ec130f188-1cc83c8c0bee73a2-craftingtweaks-forge-1.20.1-18.2.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/5ec130f188-1cc83c8c0bee73a2-craftingtweaks-forge-1.20.1-18.2.9.jar",
       "sha256": "1cc83c8c0bee73a2ffa3428ce28e3c17d7f95e26e1a820d8bd7270e0931f8974",
       "size": 230696
     },
     {
       "path": "mods/cupboard-1.20.1-4.2.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/cc145c0bd8-6a384b880c2429e0-cupboard-1.20.1-4.2.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/cc145c0bd8-6a384b880c2429e0-cupboard-1.20.1-4.2.jar",
       "sha256": "6a384b880c2429e017f83657438e1fc00d091592cc2860d6d2986094bac5d48f",
       "size": 33422
     },
     {
       "path": "mods/drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/98f847a031-3213b0a5ae3b4873-drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/98f847a031-3213b0a5ae3b4873-drippyloadingscreen_forge_3.1.5_MC_1.20.1.jar",
       "sha256": "3213b0a5ae3b487360bc2cafd036a11f35c4e1465122e18e218968c0771ddc42",
       "size": 281881
     },
     {
       "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/e5146761e5-86de2a9fc6538bc2-entityculling-forge-1.11.3-mc1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/e5146761e5-86de2a9fc6538bc2-entityculling-forge-1.11.3-mc1.20.1.jar",
       "sha256": "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66",
       "size": 1515076
     },
     {
       "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/eacda86956-2d14bc9b0cb32e5e-fancymenu_forge_3.9.14_MC_1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/eacda86956-2d14bc9b0cb32e5e-fancymenu_forge_3.9.14_MC_1.20.1.jar",
       "sha256": "2d14bc9b0cb32e5e3f2f9661add8a78762f2b29df3fbb6db7412675786e76f16",
       "size": 26191988
     },
     {
       "path": "mods/farsight-1.20.1-5.5.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/010e493b8a-315f2fad17096b0b-farsight-1.20.1-5.5.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/010e493b8a-315f2fad17096b0b-farsight-1.20.1-5.5.1.jar",
       "sha256": "315f2fad17096b0b8ff766ea5e318774d3318a8e8db9d4f60954bd100683992d",
       "size": 32752
     },
     {
       "path": "mods/Flashlight Forge 1.20.1 v1.5.0.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/b192c009df-46b21ee2a5f0f4b8-Flashlight_Forge_1.20.1_v1.5.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/b192c009df-46b21ee2a5f0f4b8-Flashlight_Forge_1.20.1_v1.5.0.jar",
       "sha256": "46b21ee2a5f0f4b8219c841dc2d02c480783f6b271c838af0ada4c28bf4ea3fb",
       "size": 87885
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/d45c679d6c-c04abba4fd354dd8-geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/d45c679d6c-c04abba4fd354dd8-geckolib-forge-1.20.1-4.8.4.jar",
       "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
       "size": 1038209
     },
     {
       "path": "mods/Highlighter-1.20.1-forge-1.1.9.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/b80cfa2fe3-8389c409257541c0-Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/b80cfa2fe3-8389c409257541c0-Highlighter-1.20.1-forge-1.1.9.jar",
       "sha256": "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026",
       "size": 29438
     },
     {
       "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/1a81da7b12-91ad6b459e0c7a16-Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/1a81da7b12-91ad6b459e0c7a16-Iceberg-1.20.1-forge-1.1.25.jar",
       "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
       "size": 134551
     },
     {
       "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/a46a4848c6-a632c77975e5aedf-Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/a46a4848c6-a632c77975e5aedf-Jade-1.20.1-Forge-11.13.3.jar",
       "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
       "size": 553487
     },
     {
       "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/c9a51093b4-6b251e60a4719c87-jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/c9a51093b4-6b251e60a4719c87-jei-1.20.1-forge-15.56.0.205.jar",
       "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c",
       "size": 1778129
     },
     {
       "path": "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/9f07daaba6-311d3a83db489d27-JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/9f07daaba6-311d3a83db489d27-JustEnoughResources-1.20.1-1.4.0.247.jar",
       "sha256": "311d3a83db489d27b96cd15deb690ce64c78cffb552c25c3dff85956a14ec09e",
       "size": 276231
     },
     {
       "path": "mods/justzoom_forge_3.1.0_MC_1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/29e09e2929-2ff10338b7d706c3-justzoom_forge_3.1.0_MC_1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/29e09e2929-2ff10338b7d706c3-justzoom_forge_3.1.0_MC_1.20.1.jar",
       "sha256": "2ff10338b7d706c379b40040265b15c7c5a530a42df4fadc5e7e5d28ffabca26",
       "size": 355850
     },
     {
       "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/c6782ed0c9-e78686b92c3761ec-konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/c6782ed0c9-e78686b92c3761ec-konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
       "size": 625185
     },
     {
       "path": "mods/lootintegrations-1.20.1-4.7.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/fe496e3ac7-88dc2701f90c04a4-lootintegrations-1.20.1-4.7.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/fe496e3ac7-88dc2701f90c04a4-lootintegrations-1.20.1-4.7.jar",
       "sha256": "88dc2701f90c04a4fa343be11ea0c21cbda1d675cba514f201946dcd8eae17ea",
       "size": 42220
     },
     {
       "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/ad7a4abcba-01200ee5889e6bcc-lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/ad7a4abcba-01200ee5889e6bcc-lootr-forge-1.20-0.7.35.94.jar",
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
       "size": 463485
     },
     {
       "path": "mods/LuckPerms-Forge-5.4.102.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/0537dc1aba-935beff65a4d2488-LuckPerms-Forge-5.4.102.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/0537dc1aba-935beff65a4d2488-LuckPerms-Forge-5.4.102.jar",
       "sha256": "935beff65a4d248880e004ccb5fc2f1cc5d63d3f24870ff8d472cbefa31016da",
       "size": 1398478
     },
     {
       "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/fcb9f51be4-933e2a7e79c4594f-melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/fcb9f51be4-933e2a7e79c4594f-melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
       "size": 37178
     },
     {
       "path": "mods/modernfix-forge-5.27.91+mc1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/be3e02a667-b42fe87fd5ffa46f-modernfix-forge-5.27.91_mc1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/be3e02a667-b42fe87fd5ffa46f-modernfix-forge-5.27.91_mc1.20.1.jar",
       "sha256": "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000",
       "size": 1012942
     },
     {
       "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/5bb99c5fd2-6c27d16aa715ac66-MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/5bb99c5fd2-6c27d16aa715ac66-MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
       "size": 76237
     },
     {
       "path": "mods/NEWANIMATIONSvoicestealer-1.1.0.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/8616b06801-3bf6cc7461b45821-NEWANIMATIONSvoicestealer-1.1.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/8616b06801-3bf6cc7461b45821-NEWANIMATIONSvoicestealer-1.1.0.jar",
       "sha256": "3bf6cc7461b458219d2c7174671ae9e9fb41671fcee444be7e62ee033ff4a162",
       "size": 5863574
     },
     {
       "path": "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/97e38896dc-8f05afb56310b21e-Not_Enough_Recipe_Book-FORGE-0.4.1_1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/97e38896dc-8f05afb56310b21e-Not_Enough_Recipe_Book-FORGE-0.4.1_1.20.1.jar",
       "sha256": "8f05afb56310b21e91d2f1d1200a9c0d98a34a9689b9b6288a6507c0498b299d",
       "size": 21667
     },
     {
       "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/1f25399f89-5bb146c691f2c505-OctoLib-FORGE-0.5.0.1_1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/1f25399f89-5bb146c691f2c505-OctoLib-FORGE-0.5.0.1_1.20.1.jar",
       "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
       "size": 424035
     },
     {
       "path": "mods/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/000618d582-b343d2068413d895-PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/000618d582-b343d2068413d895-PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
       "sha256": "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
       "size": 102164
     },
     {
       "path": "mods/Placebo-1.20.1-8.6.3.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/566d485b2c-1cdf906cfbcbb5e5-Placebo-1.20.1-8.6.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/566d485b2c-1cdf906cfbcbb5e5-Placebo-1.20.1-8.6.3.jar",
       "sha256": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571",
       "size": 282474
     },
     {
       "path": "mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/c4dbe5ee74-103f1d46c16023e3-PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/c4dbe5ee74-103f1d46c16023e3-PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
       "sha256": "103f1d46c16023e346802a9b2024db885cf8dc3a43ee5106bcd5ed8165073efd",
       "size": 1790007
     },
     {
       "path": "mods/random_advancement-forge-1.20.1-1.0.0.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/52d4a1a5c2-1f94eeedd42ca464-random_advancement-forge-1.20.1-1.0.0.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/52d4a1a5c2-1f94eeedd42ca464-random_advancement-forge-1.20.1-1.0.0.jar",
       "sha256": "1f94eeedd42ca4648a168df0b7f82cdb29833d89e7bebbc32d65069ccc5db904",
       "size": 944997
     },
     {
       "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/95767e1b46-c1a76e9388621057-Searchables-forge-1.20.1-1.0.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/95767e1b46-c1a76e9388621057-Searchables-forge-1.20.1-1.0.3.jar",
       "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
       "size": 77732
     },
     {
       "path": "mods/simple_horror_sounds-1.2.1-forge-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/895d0adbc6-f4c0c7ae1dd926ec-simple_horror_sounds-1.2.1-forge-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/895d0adbc6-f4c0c7ae1dd926ec-simple_horror_sounds-1.2.1-forge-1.20.1.jar",
       "sha256": "f4c0c7ae1dd926ec753faec1622547f6874d92b2454415fff1e13947beed7a0e",
       "size": 8949968
     },
     {
       "path": "mods/sons_of_sins-2.2.1-forge-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/0200a112dd-b8b126443432ff0c-sons_of_sins-2.2.1-forge-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/0200a112dd-b8b126443432ff0c-sons_of_sins-2.2.1-forge-1.20.1.jar",
       "sha256": "b8b126443432ff0c475d925a5b208e262df2d1a627548324b7fc1e2a1a46438b",
       "size": 5283097
     },
     {
       "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/c7afe38f82-591fa317c4e46203-sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/c7afe38f82-591fa317c4e46203-sound-physics-remastered-forge-1.20.1-1.5.1.jar",
       "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
       "size": 206984
     },
     {
       "path": "mods/Terralith_1.20.x_v2.5.4.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/af40496434-8f65f309d8f27237-Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/af40496434-8f65f309d8f27237-Terralith_1.20.x_v2.5.4.jar",
       "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
       "size": 3156901
     },
     {
       "path": "mods/the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/7fdc821c66-99161feaea2a1fba-the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/7fdc821c66-99161feaea2a1fba-the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
       "sha256": "99161feaea2a1fba7b2a41584fc9eb9082a27484e634f3a23a6f72391bf2f020",
       "size": 913118
     },
     {
       "path": "mods/the_wonderland-3.0.3-1.20.1-forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/8d80ea812f-fb404ce52428d5fd-the_wonderland-3.0.3-1.20.1-forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/8d80ea812f-fb404ce52428d5fd-the_wonderland-3.0.3-1.20.1-forge.jar",
       "sha256": "fb404ce52428d5fdc574be4808dfd79b4b283f9ac5c92f14299b75f460406da9",
       "size": 175374232
     },
     {
       "path": "mods/ToastControl-1.20.1-8.0.3.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/6d14cc8a82-e9923900cabbc12f-ToastControl-1.20.1-8.0.3.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/6d14cc8a82-e9923900cabbc12f-ToastControl-1.20.1-8.0.3.jar",
       "sha256": "e9923900cabbc12ffde7cc36113936f24b773bb33b22c19e4109cca52fc55ad6",
       "size": 26957
     },
     {
       "path": "mods/trashslot-forge-1.20.1-15.1.5.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/4b5f0e795c-7f038937dffeebc3-trashslot-forge-1.20.1-15.1.5.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/4b5f0e795c-7f038937dffeebc3-trashslot-forge-1.20.1-15.1.5.jar",
       "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746",
       "size": 117983
     },
     {
       "path": "mods/underbed-1.11.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/3f88eb25a8-157bec9f690080c6-underbed-1.11.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/3f88eb25a8-157bec9f690080c6-underbed-1.11.1.jar",
       "sha256": "157bec9f690080c6d5eab35a5dc526f99227150560616842145cf5b3c0fa3739",
       "size": 51136
     },
     {
-      "path": "mods/verity-6.0.0.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/bc07c70755-f76f641f17ea3e3b-verity-6.0.0.jar",
-      "sha256": "f76f641f17ea3e3b2e8486596790ae65c27c2b016fae6ed8557c67887816b7d0",
-      "size": 256881551
-    },
-    {
       "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/df93210fbc-f171e99fa99f007e-voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/df93210fbc-f171e99fa99f007e-voicechat-forge-1.20.1-2.6.22.jar",
       "sha256": "f171e99fa99f007ef013af5306f6c490fe79a11be7e1b18940147d75ced045b9",
       "size": 4923439
     },
     {
       "path": "mods/whos_there-1.4.1-forge-1.20.1.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/2bf6d7c761-26710c35a6f3f171-whos_there-1.4.1-forge-1.20.1.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/2bf6d7c761-26710c35a6f3f171-whos_there-1.4.1-forge-1.20.1.jar",
       "sha256": "26710c35a6f3f171e1f8526ad0a2ac2393caf1257e6872a2dbc8cf185a7d08e1",
       "size": 812419
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-fbed8daa2038533f/5c9b64835f-bd05da3d9df29b91-yet_another_config_lib_v3-3.6.6_1.20.1-forge.jar",
+      "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-dinamicas-b0acc6db0b6768c3/5c9b64835f-bd05da3d9df29b91-yet_another_config_lib_v3-3.6.6_1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891
     }
