@@ -1,0 +1,8 @@
+{
+  "version": "2.2.2",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.2-update.zip",
+  "sha256": "5805fa9895cb5ad09be08d0b93a16e4707d830e5894b741d1c49c3321559b1f4",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.2.exe",
+  "exe_sha256": "f0fd7426ad8c7b13ed6ba7cff2b891d309468c18c1a4b51af3f46c5281bf30f7",
+  "notes": "AleLauncher v2.2.2: sincronización de instancias cada 15 segundos (60 minimizado), sin revertir publicaciones recientes ni aplicar copias antiguas, caché de GitHub actualizada, publicación completa de modpacks, importación corregida de opciones de FancyMenu, nombres visibles editables sin alterar IDs, selector desplazable y avisos ante configuraciones remotas inválidas. Se preservan AleeStudios, BANEALAND, Dinamicas, las cuentas Microsoft/Offline y las actualizaciones de modpacks existentes."
+}
