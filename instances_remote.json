@@ -34,7 +34,7 @@
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealand/manifest.json",
       "enabled": true,
       "status": "coming_soon",
-      "description": "NeoForge 1.21.1 • se habilita al publicar el modpack"
+      "description": "NeoForge 1.21.1 • Proximamente.."
     },
     {
       "id": "dinamicas-forge-1.20.1",
@@ -51,8 +51,8 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/dinamicas/manifest.json",
       "enabled": true,
-      "status": "hidden",
-      "description": "Forge 47.4.28 • esperando modpack y prueba de instalación"
+      "status": "available",
+      "description": "Forge 47.4.28 • En uso para un servidor de terror."
     }
   ]
 }
