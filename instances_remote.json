@@ -52,7 +52,7 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/dinamicas/manifest.json",
       "enabled": true,
-      "status": "coming_soon",
+      "status": "hidden",
       "description": "Forge 47.4.28 • En uso para un servidor de terror."
     },
     {
@@ -92,5 +92,5 @@
       "description": ""
     }
   ],
-  "catalog_revision": 1793225626029
+  "catalog_revision": 1793232276955
 }
