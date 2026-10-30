@@ -90,7 +90,25 @@
       "enabled": true,
       "status": "hidden",
       "description": ""
+    },
+    {
+      "id": "terror",
+      "name": "terror-1.20.1",
+      "display_name": "Terror ModPack",
+      "minecraft_version": "1.20.1",
+      "loader": "forge",
+      "loader_version": "47.4.23",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": null,
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/terror/manifest.json",
+      "enabled": true,
+      "status": "available",
+      "description": "terror je"
     }
   ],
-  "catalog_revision": 1793232276955
+  "catalog_revision": 1793357893025
 }
