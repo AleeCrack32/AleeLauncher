@@ -90,8 +90,7 @@
       "enabled": true,
       "status": "hidden",
       "description": "",
-      "archived_previous_status": "hidden",
-      "archived": true
+      "archived": false
     },
     {
       "id": "terror",
@@ -114,5 +113,5 @@
       "archived_previous_status": null
     }
   ],
-  "catalog_revision": 1793375194254
+  "catalog_revision": 1793376073475
 }
