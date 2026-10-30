@@ -109,11 +109,11 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/terror/manifest.json",
       "enabled": true,
-      "status": "available",
+      "status": "coming_soon",
       "description": "terror je",
       "archived": false,
       "archived_previous_status": null
     }
   ],
-  "catalog_revision": 1793391473120
+  "catalog_revision": 1793391636170
 }
