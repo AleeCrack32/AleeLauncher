@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.5-update.zip",
-  "sha256": "3011d649c1bdfdbdbf3a18301f06adcd0ff9844850429367a7480cefa722c830",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.5.exe",
-  "exe_sha256": "56fc493c700099e0475eeef90de1403e4a9520a59c1c3f58e89ef1e082bc2357",
-  "notes": "v2.2.5: soporte de modpacks ZIP completos desde el panel administrativo, conservando el sistema anterior."
+  "version": "2.2.6",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.6-update.zip",
+  "sha256": "a18e6e8da511b739f2285a99d73d61f85cf6cc566d4d917a39ebc24dc66aaf07",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.6.exe",
+  "exe_sha256": "3618c09ad55f109b86a0e671110622ff8acd2684f4d8f2ff02db53d0eb01233c",
+  "notes": "v2.2.6: publicar y recuperar automáticamente Releases en borrador; corrige modpacks ZIP y estado del panel."
 }
