@@ -1,8 +1,8 @@
 {
-  "version": "2.2.8",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.8-update.zip",
-  "sha256": "156c3a3b2b6a0404b7e8d0a33dcaa9ee56c05d7743961bb9bec8ee7cb012b3dc",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.8.exe",
-  "exe_sha256": "2b001a05ca9598f274f76aa39896523266b9aa7452df260ddd9a786973888856",
-  "notes": "v2.2.8: Ocultos independiente del juego, Papelera exclusiva del botón Eliminar, restauración y eliminación definitiva del catálogo."
+  "version": "2.3.2",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.2-update.zip",
+  "sha256": "b0593aa52e417386c705ca3de1cdeb9eed727d4cbb3a61e101359788eaaa58cc",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.2.exe",
+  "exe_sha256": "8e1b0590b2e8faaa25fa42a41096c7014a098f7bad0c95cb2174cff45218642a",
+  "notes": "v2.3.2: Discord Rich Presence lee config.json local, sin mostrar ni embeber el ID de la aplicación."
 }
