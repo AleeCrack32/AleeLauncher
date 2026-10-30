@@ -1,8 +1,8 @@
 {
-  "version": "2.2.6",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.6-update.zip",
-  "sha256": "a18e6e8da511b739f2285a99d73d61f85cf6cc566d4d917a39ebc24dc66aaf07",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.6.exe",
-  "exe_sha256": "3618c09ad55f109b86a0e671110622ff8acd2684f4d8f2ff02db53d0eb01233c",
-  "notes": "v2.2.6: publicar y recuperar automáticamente Releases en borrador; corrige modpacks ZIP y estado del panel."
+  "version": "2.2.8",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.8-update.zip",
+  "sha256": "156c3a3b2b6a0404b7e8d0a33dcaa9ee56c05d7743961bb9bec8ee7cb012b3dc",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.2.8.exe",
+  "exe_sha256": "2b001a05ca9598f274f76aa39896523266b9aa7452df260ddd9a786973888856",
+  "notes": "v2.2.8: Ocultos independiente del juego, Papelera exclusiva del botón Eliminar, restauración y eliminación definitiva del catálogo."
 }
