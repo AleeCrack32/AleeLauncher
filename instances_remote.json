@@ -89,7 +89,9 @@
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/hardcore-neoforge-1-21-1/manifest.json",
       "enabled": true,
       "status": "hidden",
-      "description": ""
+      "description": "",
+      "archived_previous_status": "hidden",
+      "archived": true
     },
     {
       "id": "terror",
@@ -110,5 +112,5 @@
       "description": "terror je"
     }
   ],
-  "catalog_revision": 1793375002740
+  "catalog_revision": 1793375021069
 }
