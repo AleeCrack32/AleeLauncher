@@ -1,8 +1,8 @@
 {
-  "version": "2.3.3",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.3-update.zip",
-  "sha256": "dc947feebb6f31f454e186a0f46fe47f440532134c1f4e9e39828596bc4ed4e8",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.3.exe",
-  "exe_sha256": "474841c32e72c84b3ba8b1ba1f8ca7a1eed78c89086fda968af3056f50282055",
-  "notes": "v2.3.3: Discord Rich Presence incluido al compilar; no requiere config.json en equipos de los jugadores."
+  "version": "2.3.4",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.4-update.zip",
+  "sha256": "14d6d5ca59fd4afbc6ae8a6a8a7a63d5ce8bad5b15febefc5ba36954e60a3d78",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.4.exe",
+  "exe_sha256": "fbcb59a8fcfd665a3a36ccabec856a6c6be1adf2f6ae1183dd3e176ad7d7aaf5",
+  "notes": "v2.3.4: Discord Rich Presence directo desde EXE; ID de distribución integrado y diagnóstico de conexión."
 }
