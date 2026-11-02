@@ -1,8 +1,8 @@
 {
-  "version": "2.3.5",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.5-update.zip",
-  "sha256": "7bd7498929550f5c47b1ff8a48782ff19d4eb5e10f8f033ecd1d478c2a3f6cb4",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.5.exe",
-  "exe_sha256": "a3387330c90d8a1f1942980d4eddaf12bcd714d3ba148691b939e06653ed1174",
-  "notes": "v2.3.5: importación ZIP completo, export CurseForge y .mrpack con descargas verificadas."
+  "version": "2.3.7",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.7-update.zip",
+  "sha256": "bb782c2927b17c280ccd15acac4b761f54c5c55878e693b9f54813ffd6ebd17e",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.7.exe",
+  "exe_sha256": "d2dfc22bb865b9b1ead233f51e7cd0e00da23bd96534ab1babc993bbc3963e80",
+  "notes": "v2.3.7: preparación de Java basada en versión de Minecraft y bytecode de mods."
 }
