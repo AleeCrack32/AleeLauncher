@@ -1,8 +1,8 @@
 {
-  "version": "2.3.4",
-  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.4-update.zip",
-  "sha256": "14d6d5ca59fd4afbc6ae8a6a8a7a63d5ce8bad5b15febefc5ba36954e60a3d78",
-  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.4.exe",
-  "exe_sha256": "fbcb59a8fcfd665a3a36ccabec856a6c6be1adf2f6ae1183dd3e176ad7d7aaf5",
-  "notes": "v2.3.4: Discord Rich Presence directo desde EXE; ID de distribución integrado y diagnóstico de conexión."
+  "version": "2.3.5",
+  "url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.5-update.zip",
+  "sha256": "7bd7498929550f5c47b1ff8a48782ff19d4eb5e10f8f033ecd1d478c2a3f6cb4",
+  "exe_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/AleLauncher-v2.3.5.exe",
+  "exe_sha256": "a3387330c90d8a1f1942980d4eddaf12bcd714d3ba148691b939e06653ed1174",
+  "notes": "v2.3.5: importación ZIP completo, export CurseForge y .mrpack con descargas verificadas."
 }
