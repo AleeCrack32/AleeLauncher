@@ -1,0 +1,16 @@
+{
+  "pack_version": "1.0.0+b42f832ba0a4",
+  "minecraft_version": "1.20.1",
+  "loader": "forge",
+  "loader_version": "47.4.28",
+  "pack_format": "zip",
+  "archive": {
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-baneados-b42f832ba0a4b93f/8ebdc2c5f5-b42f832ba0a4b93f-full-modpack.zip",
+    "sha256": "b42f832ba0a4b93fe426ab2914610387beadc4578a21e35aa7a9de33d9787db3",
+    "size": 43977603,
+    "format": "zip",
+    "file_count": 41,
+    "mod_count": 38
+  },
+  "files": []
+}
