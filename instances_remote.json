@@ -135,7 +135,28 @@
       "enabled": true,
       "status": "available",
       "description": "ModPack para realizar SPEEDRUN"
+    },
+    {
+      "admin_hidden": false,
+      "archived": false,
+      "archived_previous_status": null,
+      "id": "banealandn",
+      "name": "banealandn",
+      "display_name": "Banealand Retro II",
+      "minecraft_version": "1.21.1",
+      "loader": "neoforge",
+      "loader_version": "21.1.265",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": null,
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealandn/manifest.json",
+      "enabled": true,
+      "status": "available",
+      "description": "Versión 1.0.0"
     }
   ],
-  "catalog_revision": 1793902580202
+  "catalog_revision": 1793902809885
 }
