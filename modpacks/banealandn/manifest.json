@@ -1,0 +1,16 @@
+{
+  "pack_version": "1.0.0+b33d572b644e",
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "loader_version": "21.1.265",
+  "pack_format": "zip",
+  "archive": {
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-banealandn-b33d572b644e41ce/8ebdc2c5f5-b33d572b644e41ce-full-modpack.zip",
+    "sha256": "b33d572b644e41ce39a626eb7d2a70e73beb658df4ea49de1fd7a64b0e3c4672",
+    "size": 181410092,
+    "format": "zip",
+    "file_count": 104,
+    "mod_count": 101
+  },
+  "files": []
+}
