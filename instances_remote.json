@@ -154,7 +154,7 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealandn/manifest.json",
       "enabled": true,
-      "status": "available",
+      "status": "coming_soon",
       "description": "Versión 1.0.0"
     },
     {
@@ -179,5 +179,5 @@
       "description": ""
     }
   ],
-  "catalog_revision": 1793921808375
+  "catalog_revision": 1793921823621
 }
