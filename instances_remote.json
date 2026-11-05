@@ -35,7 +35,8 @@
       "enabled": true,
       "status": "hidden",
       "description": "NeoForge 1.21.1 • Proximamente..",
-      "display_name": "BANEALAND"
+      "display_name": "BANEALAND",
+      "admin_hidden": true
     },
     {
       "id": "dinamicas-forge-1.20.1",
@@ -136,5 +137,5 @@
       "description": "ModPack para realizar SPEEDRUN"
     }
   ],
-  "catalog_revision": 1793654955038
+  "catalog_revision": 1793902580202
 }
