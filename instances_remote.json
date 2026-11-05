@@ -175,9 +175,9 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/baneados/manifest.json",
       "enabled": true,
-      "status": "available",
+      "status": "coming_soon",
       "description": ""
     }
   ],
-  "catalog_revision": 1793921356412
+  "catalog_revision": 1793921808375
 }
