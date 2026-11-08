@@ -177,7 +177,28 @@
       "enabled": true,
       "status": "coming_soon",
       "description": ""
+    },
+    {
+      "admin_hidden": false,
+      "archived": false,
+      "archived_previous_status": null,
+      "id": "karmaland",
+      "name": "karmaland",
+      "display_name": "Karmaland",
+      "minecraft_version": "1.18.2",
+      "loader": "forge",
+      "loader_version": "40.3.11",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx8G"
+      ],
+      "server": "karmaland",
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/karmaland/manifest.json",
+      "enabled": true,
+      "status": "available",
+      "description": "karmaland"
     }
   ],
-  "catalog_revision": 1793921823621
+  "catalog_revision": 1794159401350
 }
