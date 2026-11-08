@@ -1,0 +1,16 @@
+{
+  "pack_version": "1.0.0+18e55038c6ac",
+  "minecraft_version": "1.18.2",
+  "loader": "forge",
+  "loader_version": "40.3.11",
+  "pack_format": "zip",
+  "archive": {
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-karmaland-18e55038c6ac629b/8ebdc2c5f5-18e55038c6ac629b-full-modpack.zip",
+    "sha256": "18e55038c6ac629bf697b019bb6eafabddce1334fcb9e8bd2cd4e02adff9c7ef",
+    "size": 5830189,
+    "format": "zip",
+    "file_count": 465,
+    "mod_count": 1
+  },
+  "files": []
+}
