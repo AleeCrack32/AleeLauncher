@@ -196,9 +196,9 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/karmaland/manifest.json",
       "enabled": true,
-      "status": "available",
+      "status": "hidden",
       "description": "karmaland"
     }
   ],
-  "catalog_revision": 1794159401350
+  "catalog_revision": 1794159682631
 }
