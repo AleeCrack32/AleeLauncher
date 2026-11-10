@@ -154,7 +154,7 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/banealandn/manifest.json",
       "enabled": true,
-      "status": "coming_soon",
+      "status": "available",
       "description": "Versión 1.0.0"
     },
     {
@@ -200,5 +200,5 @@
       "description": "karmaland"
     }
   ],
-  "catalog_revision": 1794326741035
+  "catalog_revision": 1794327201492
 }
