@@ -1,16 +1,16 @@
 {
-  "pack_version": "1.0.0+b33d572b644e",
+  "pack_version": "1.0.0+89323ee4abcb",
   "minecraft_version": "1.21.1",
   "loader": "neoforge",
   "loader_version": "21.1.265",
   "pack_format": "zip",
   "archive": {
-    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-banealandn-b33d572b644e41ce/8ebdc2c5f5-b33d572b644e41ce-full-modpack.zip",
-    "sha256": "b33d572b644e41ce39a626eb7d2a70e73beb658df4ea49de1fd7a64b0e3c4672",
-    "size": 181410092,
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-banealandn-89323ee4abcb4d57/8ebdc2c5f5-89323ee4abcb4d57-full-modpack.zip",
+    "sha256": "89323ee4abcb4d57137d4098c0e6d9bd9e90c75d88e61cd8594b8741bf251ea2",
+    "size": 314873003,
     "format": "zip",
-    "file_count": 104,
-    "mod_count": 101
+    "file_count": 530,
+    "mod_count": 143
   },
   "files": []
 }
