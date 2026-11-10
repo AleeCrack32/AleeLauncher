@@ -16,7 +16,7 @@
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/manifest.json",
       "display_name": "AleeStudios",
       "enabled": true,
-      "status": "available",
+      "status": "maintenance",
       "description": "Servidor principal • Fabric 26.3"
     },
     {
@@ -200,5 +200,5 @@
       "description": "karmaland"
     }
   ],
-  "catalog_revision": 1794326673028
+  "catalog_revision": 1794326691481
 }
