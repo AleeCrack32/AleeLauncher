@@ -179,7 +179,7 @@
       "description": ""
     },
     {
-      "admin_hidden": false,
+      "admin_hidden": true,
       "archived": false,
       "archived_previous_status": null,
       "id": "karmaland",
@@ -200,5 +200,5 @@
       "description": "karmaland"
     }
   ],
-  "catalog_revision": 1794159682631
+  "catalog_revision": 1794326673028
 }
