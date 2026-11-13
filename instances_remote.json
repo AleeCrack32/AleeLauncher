@@ -133,7 +133,7 @@
       "server_port": 25565,
       "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/speedrun/manifest.json",
       "enabled": true,
-      "status": "available",
+      "status": "coming_soon",
       "description": "ModPack para realizar SPEEDRUN"
     },
     {
@@ -200,5 +200,5 @@
       "description": "karmaland"
     }
   ],
-  "catalog_revision": 1794327201492
+  "catalog_revision": 1794609928720
 }
