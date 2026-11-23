@@ -1,0 +1,16 @@
+{
+  "pack_version": "1.0.0+6298a444e3b5",
+  "minecraft_version": "26.3",
+  "loader": "fabric",
+  "loader_version": "0.20.1",
+  "pack_format": "zip",
+  "archive": {
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-alestebantaro-6298a444e3b543ff/8ebdc2c5f5-6298a444e3b543ff-full-modpack.zip",
+    "sha256": "6298a444e3b543ff441973c91c8a4f1aedba17851c43c174d0201066ba11e565",
+    "size": 19839463,
+    "format": "zip",
+    "file_count": 101,
+    "mod_count": 19
+  },
+  "files": []
+}
