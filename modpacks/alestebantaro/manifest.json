@@ -1,16 +1,16 @@
 {
-  "pack_version": "1.0.0+6298a444e3b5",
+  "pack_version": "1.0.0+ed79dba1be8c",
   "minecraft_version": "26.3",
   "loader": "fabric",
   "loader_version": "0.20.1",
   "pack_format": "zip",
   "archive": {
-    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-alestebantaro-6298a444e3b543ff/8ebdc2c5f5-6298a444e3b543ff-full-modpack.zip",
-    "sha256": "6298a444e3b543ff441973c91c8a4f1aedba17851c43c174d0201066ba11e565",
-    "size": 19839463,
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-alestebantaro-ed79dba1be8c4b8e/8ebdc2c5f5-ed79dba1be8c4b8e-full-modpack.zip",
+    "sha256": "ed79dba1be8c4b8ea37809865219fb48f3869f1deb50938d3afd9614c7211bd6",
+    "size": 17164466,
     "format": "zip",
-    "file_count": 101,
-    "mod_count": 19
+    "file_count": 100,
+    "mod_count": 18
   },
   "files": []
 }
