@@ -1,16 +1,16 @@
 {
-  "pack_version": "1.0.0+ed79dba1be8c",
+  "pack_version": "1.0.0+1305d7b29377",
   "minecraft_version": "26.3",
   "loader": "fabric",
   "loader_version": "0.19.5",
   "pack_format": "zip",
   "archive": {
-    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-aleestudios-ed79dba1be8c4b8e/8ebdc2c5f5-ed79dba1be8c4b8e-full-modpack.zip",
-    "sha256": "ed79dba1be8c4b8ea37809865219fb48f3869f1deb50938d3afd9614c7211bd6",
-    "size": 17164466,
+    "url": "https://github.com/AleeCrack32/AleeLauncher/releases/download/alepack-aleestudios-1305d7b29377af39/8ebdc2c5f5-1305d7b29377af39-full-modpack.zip",
+    "sha256": "1305d7b29377af39611f99229d1580f04364190039fce2d566554a2d142734db",
+    "size": 16785794,
     "format": "zip",
-    "file_count": 100,
-    "mod_count": 18
+    "file_count": 99,
+    "mod_count": 17
   },
   "files": []
 }
