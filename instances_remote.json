@@ -201,7 +201,28 @@
       "enabled": true,
       "status": "hidden",
       "description": "karmaland"
+    },
+    {
+      "admin_hidden": false,
+      "archived": false,
+      "archived_previous_status": null,
+      "id": "alestebantaro",
+      "name": "tecnico",
+      "display_name": "Técnico",
+      "minecraft_version": "26.3",
+      "loader": "fabric",
+      "loader_version": "0.20.1",
+      "jvm_args": [
+        "-Xms1G",
+        "-Xmx4G"
+      ],
+      "server": null,
+      "server_port": 25565,
+      "modpack_manifest_url": "https://raw.githubusercontent.com/AleeCrack32/AleeLauncher/main/modpacks/alestebantaro/manifest.json",
+      "enabled": true,
+      "status": "available",
+      "description": "Mundo técnico"
     }
   ],
-  "catalog_revision": 1795469503379
+  "catalog_revision": 1795472468914
 }
