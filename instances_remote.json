@@ -19,8 +19,8 @@
       "status": "available",
       "description": "Servidor principal • Fabric 26.3",
       "admin_hidden": false,
-      "archived": false,
-      "archived_previous_status": null
+      "archived": true,
+      "archived_previous_status": "available"
     },
     {
       "id": "banealand-1.21.1",
@@ -224,5 +224,5 @@
       "description": "Mundo técnico"
     }
   ],
-  "catalog_revision": 1795474088743
+  "catalog_revision": 1795474263053
 }
