@@ -227,8 +227,8 @@
     },
     {
       "admin_hidden": false,
-      "archived": false,
-      "archived_previous_status": null,
+      "archived": true,
+      "archived_previous_status": "coming_soon",
       "id": "terrormodpack",
       "name": "terrormodpack",
       "display_name": "ModPack de Terror",
@@ -247,5 +247,5 @@
       "description": ""
     }
   ],
-  "catalog_revision": 1795474409551
+  "catalog_revision": 1795475644191
 }
